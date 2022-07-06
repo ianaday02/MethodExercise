@@ -1,0 +1,14 @@
+/Users/luismendoza/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise
+/Users/luismendoza/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.deps.json
+/Users/luismendoza/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.json
+/Users/luismendoza/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.dev.json
+/Users/luismendoza/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/luismendoza/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/luismendoza/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.AssemblyReference.cache
+/Users/luismendoza/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luismendoza/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfoInputs.cache
+/Users/luismendoza/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfo.cs
+/Users/luismendoza/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.CoreCompileInputs.cache
+/Users/luismendoza/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/luismendoza/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/luismendoza/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.genruntimeconfig.cache
